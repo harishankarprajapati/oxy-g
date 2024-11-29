@@ -1,0 +1,430 @@
+/* -------1920--------- */
+
+@media only screen and (min-width:1920px) {
+
+  .container-fluid {
+    width: 1903px;
+    margin: auto;
+  }
+  .secbootww{
+    max-width: 145%;
+  }
+  .prodtext h4{
+    font-size: 22px;
+  }
+  .prodtext p{
+    font-size: 18px;
+  }
+  .secblog2 {
+    margin-top: -500px !important;
+}
+.secmaibtn3 {
+  text-align: center;
+  padding-bottom: 40px;
+  margin-top: -337px;
+  margin-bottom: 203px;
+}
+img.img-fluid.sec-logo-img {
+  width: 100%;
+}
+.maiheddtex {
+  font-size: 143px;
+  line-height: 90px;
+  padding-top: 124px
+}
+.maiheddtex2 {
+  line-height: normal;
+}
+.secmaibtn a {
+  font-size: 23px;
+
+}
+.secmaibtn {
+  padding-top: 80px;
+}
+.headermenusec , .headermenusec2btn{
+  font-size: 18px;
+}
+.martext {
+  font-size: 35px;
+}
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1199px) {
+  .offcanvas-header {
+    background: #000;
+}
+button.navbar-toggler {
+  border: 1px solid #fff;
+}
+
+
+
+}
+
+
+@media only screen and (max-width:1025px) {
+  .offcanvas-header {
+    background: #000;
+}
+.headermenusec {
+  color: #000;
+  font-size: 22px;
+  padding: 0px 0px 10px 0px !important;
+}
+
+.headermenusec2btn {
+  background-color: transparent;
+  color: #000;
+  padding: 0px 0px 0px 10px !important;
+        margin-top: -10px;
+        font-size: 22px;
+}
+.maiheddtex2 {
+  font-size: 70px;
+}
+.secbootww {
+  max-width: 110%;
+}
+.maiheddtex3 {
+  font-size: 70px;
+}
+.owl-nav.disabled {
+  display: none;
+}
+.owl-dots.disabled {
+  display: none;
+}
+.secblog2 {
+  margin-top: -300px;
+}
+.secmaibtn3 {
+  margin-top: -100px;
+}
+.footerbg {
+  padding: 60px 50px 50px 50px;
+}
+.navbar-nav.justify-content-center.align-items-center.flex-grow-1.pe-3 {
+  align-items: flex-start !important;
+}
+
+}
+
+
+
+
+@media only screen and (max-width:991px) {
+  .offcanvas-header {
+    background: #000;
+}
+.headermenusec {
+  color: #000;
+  padding: 0px 0px 10px 0px !important;
+  font-size: 18px;
+}
+.navbar-nav.justify-content-center.align-items-center.flex-grow-1.pe-3 {
+  align-items: flex-start !important;
+}
+.headermenusec2btn {
+  background-color: transparent;
+  color: #000;
+  font-size: 18px;
+  padding: 0px 0px 0px 10px !important;
+        margin-top: -10px;
+}
+.secboxh {
+  border: 1px solid #00abf9;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.maiheddtex {
+  font-size: 79px;
+  line-height: 71px;
+  padding-top: 50px;
+
+}
+.maiheddtex2 {
+  font-size: 50px;
+  line-height: 40px;
+}
+.maiheddtex3 {
+  font-size: 54px;
+  line-height: 30px;
+}
+.secmaibtn a {
+  font-size: 14px;
+}
+.martext {
+  font-size: 24px;
+}
+.secbootww {
+  max-width: 109%;
+}
+.secmaibtn {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.owl-dots {
+  display: none;
+}
+.secblog2 {
+  margin-top: -170px;
+}
+.secblog {
+  padding-top: 20px;
+}
+.headdsec h4 {
+  font-size: 35px;
+}
+.headdsec h3 {
+  font-size: 50px;
+}
+.secaatext {
+  font-size: 50px;
+}
+.secaatext2 {
+  font-size: 35px;
+}
+br.disnn {
+  display: none;
+}
+.sechomabotbgg {
+  padding: 40px 10px 40px 10px;
+}
+.secatn {
+    padding-top: 20px;
+}
+.secmaibtn2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.menusec h4 {
+  font-size: 25px;
+}
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:767px) {
+  a.navbar-brand {
+    width: 72%;
+}
+.offcanvas-header {
+  background: #000;
+}
+.headermenusec {
+  color: #000;
+  padding: 0px 0px 10px 0px !important;
+}
+.headermenusec2btn {
+  background-color: transparent;
+  color: #000;
+  padding: 0px 0px 0px 10px !important;
+        margin-top: -10px;
+}
+  .maiheddtex {
+    font-size: 82px;
+  }
+  .maiheddtex2 {
+    font-size: 51px;
+  }
+  .secbootww {
+    max-width: 100%;
+}
+.maiheddtex3 {
+  font-size: 55px;
+}
+.secmaibtn {
+  padding-bottom: 40px;
+}
+.headdsec h3 {
+  font-size: 40px;
+  line-height: 40px;
+}
+#email-signup {
+  width: 100% !important;
+}
+#btn {
+  width: 40% !important;
+}
+.signup {
+  display: inline-flex
+;
+  width: 100%;
+}
+.sechomabotbgg {
+  padding: 40px 10px 40px 10px;
+}
+.secaatext {
+  font-size: 50px;
+}
+.secaatext2 {
+  font-size: 28px;
+  line-height: 28px;
+}
+.disnn{
+  display: none;
+}
+.secaatext3 {
+  font-size: 16px;
+}
+.secboxg {
+  padding-top: 20px;
+}
+.secboxh {
+  border: 1px solid #00abf9;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.secatn {
+  padding-top: 20px;
+}
+.headdsec h4 {
+  font-family: 'open sans';
+  font-size: 23px;
+}
+.secprodbg {
+  border: 1px solid #b9b9b9;
+  border-radius: 20px;
+}
+.prodimg {
+  border-radius: 20px 20px 0px 0px;
+}
+.prodtext h4 {
+  font-size: 16px;
+}
+.prodtext p {
+  font-size: 14px;
+}
+.owl-dots {
+  display: none;
+}
+.secblogbgg {
+  padding: 20px 10px 0px 10px;
+}
+.secblog {
+  padding-top: 20px;
+}
+.secblogtext {
+  margin-top: -90px !important;
+  border-radius: 15px;
+  width: 90%;
+}
+.owl-nav {
+  display: none;
+}
+.secblog2 {
+  margin-top: -0px;
+}
+.footerbg {
+  padding: 40px 10px 30px 10px;
+}
+#btn i {
+  padding: 3px 6px 3px 5px;
+  border-radius: 50px;
+  margin-left: 0px;
+  font-size: 16px !important;
+}
+.secpaadm{
+  padding:0;
+}
+#btn i {
+  display: none;
+}
+i.bi.bi-envelope {
+  display: none;
+}
+.subsecbsc {
+  padding-left: 15px !important;
+}
+.seccopy {
+  font-size: 16px;
+  text-align: center;
+}
+.seccopy2 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 84px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:321px){
+  .maiheddtex {
+    font-size: 68px;
+    padding-top: 40px;
+}
+.maiheddtex3 {
+  font-size: 46px;
+}
+.maiheddtex2 {
+  font-size: 43px;
+  line-height: 28px;
+}
+.container.seccpaddmob {
+  padding: 0px;
+}
+.secmaibtn3 {
+  margin-top: -92px;
+}
+.subsecbsc {
+  padding-left: 15px !important;
+}
+i.bi.bi-envelope {
+  display: none;
+}
+#btn i {
+  display: none;
+}
+.secsubtext {
+  font-size: 28px;
+}
+  .card{
+    width:99vw;
+    height:auto;
+    padding: 0px 10px 0px 10px;
+    overlap:hidden;
+  }
+  .signup{
+    display:inline-flex;
+    width: 100%;
+    height:auto;
+    margin:0;
+    flex-wrap:wrap;
+  }
+  #btn{
+    width:100%;
+  }
+  #email-signup{
+    width:90vw;
+  }
+
+  #spam{
+    font-size:14px;
+    width:100%;
+  }
+}

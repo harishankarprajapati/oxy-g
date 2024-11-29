@@ -1,0 +1,140 @@
+<div class="container-fluid footerbg">
+    <div class="container seccpaddmob">
+        <div class="row m-0">
+            <div class="col-md-12 col-lg-6 secpaddff">
+                <a href="index.html"><img class="img-fluid" src="images/footer-logo.png" alt=""></a>
+
+                <h4 class="secsubtext">Subscribe to Our Newsletter</h4>
+                <p class="secsubtext2">Get the latest update about the latest news, expert tips, <br class="disnn">exclusive offers, and
+                    many more!</p>
+
+                    <div class="">
+                      <div class="signup">
+                        <form target="#">
+                            <i class="bi bi-envelope"></i>
+                          <input type="email" class="subsecbsc" id="email-signup" placeholder="Enter Your Email" required>
+                          <button type="submit" value="" id="btn">Subscribe <i class="bi bi-send  "></i> </button>
+                        </form>
+                      </div>
+                      </div>
+
+
+
+            </div>
+            <div class="col-md-12 col-lg-6 secpaadm">
+                <div class="row m-0">
+                    <div class="col-md-4 ">
+                        <div class="menusec">
+                            <h4>MENU</h4>
+                            <p><a href="index.html">Home</a></p>
+                            <p><a href="#">About</a></p>
+                            <p><a href="#">Products</a></p>
+                            <p><a href="#">Benefits</a></p>
+                            <p><a href="#">Become Distributor</a></p>
+                            <p><a href="#">Blogs</a></p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="menusec">
+                            <h4>EXTRAS</h4>
+                            <p><a href="#">Contact</a></p>
+                            <p><a href="#">FAQs</a></p>
+                            <p><a href="#">Services</a></p>
+                            <p><a href="#">Accessories</a></p>
+                            <p><a href="#">Distributors</a></p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="menusec">
+                            <h4>SOCIAL</h4>
+                            <p><a href="#">Facebook</a></p>
+                            <p><a href="#">Instagram</a></p>
+                            <p><a href="#">Youtube</a></p>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="container-fluid footerbg2">
+    <div class="container">
+    <div class="row m-0">
+        <div class="col-md-6">
+            <p class="seccopy">All Right Reserved.</b> Copyright © 2024 Oxy-g.</p>
+        </div>
+        <div class="col-md-6">
+            <p class="seccopy2">&nbsp;<a href="#">Privacy Policy</a> &nbsp; &nbsp; <a href="#">Terms & Conditions</a></p>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+    $(document).ready(function () {
+
+        $('.counter').each(function () {
+            $(this).prop('Counter', 0).animate({
+                Counter: $(this).text()
+            }, {
+                duration: 4000,
+                easing: 'swing',
+                step: function (now) {
+                    $(this).text(Math.ceil(now));
+                }
+            });
+        });
+
+    });
+
+
+
+
+
+
+    /* -- Back to top --*/
+
+
+    window.onscroll = () => {
+        toggleTopButton();
+    }
+    function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function toggleTopButton() {
+        if (document.body.scrollTop > 20 ||
+            document.documentElement.scrollTop > 20) {
+            document.getElementById('back-to-up').classList.remove('d-none');
+        } else {
+            document.getElementById('back-to-up').classList.add('d-none');
+        }
+    }
+</script>
