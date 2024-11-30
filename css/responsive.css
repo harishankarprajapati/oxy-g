@@ -48,6 +48,30 @@ img.img-fluid.sec-logo-img {
 .martext {
   font-size: 35px;
 }
+.modal.show .modal-dialog {
+  width: 48% !important;
+}
+.prodimg2 img {
+  width: 47% !important;
+  margin: auto;
+}
+.prodtext2 h4 {
+  font-size: 30px;
+}
+.prodtext2 h5 {
+  font-size: 22px;
+}
+.prodtext2 p {
+  font-size: 20px;
+}
+h5#exampleModalLabel {
+  font-size: 40px;
+}
+button.btn-close {
+  font-size: 40px;
+}
+
+
 }
 
 
@@ -298,6 +322,7 @@ br.disnn {
 .secprodbg {
   border: 1px solid #b9b9b9;
   border-radius: 20px;
+  margin-bottom: 20px;
 }
 .prodimg {
   border-radius: 20px 20px 0px 0px;
@@ -359,7 +384,41 @@ i.bi.bi-envelope {
   padding-bottom: 84px;
 }
 
-
+.seccatepadd {
+  padding-bottom: 20px;
+}
+.tittle-day {
+  font-size: 26px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.secddbb{
+display: none;
+}
+.container-fluid.pb-5.pt-5 {
+padding-bottom: 0px !important;
+}
+button.btn.secmodww {
+  padding: 0;
+}
+.prodtext2 h4 {
+  font-size: 20px;
+}
+.modal.show .modal-dialog {
+  width: 93% !important;
+}
+.prodtext2 p {
+  font-size: 14px;
+}
+.secpopbtnp {
+  padding: 0px 0px 20px 0px;
+}
+.prodtext2 {
+  padding: 5px;
+}
+h5#exampleModalLabel {
+  font-size: 17px;
+}
 }
 
 
@@ -427,4 +486,5 @@ i.bi.bi-envelope {
     font-size:14px;
     width:100%;
   }
+
 }
