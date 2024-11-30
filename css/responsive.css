@@ -232,6 +232,20 @@ br.disnn {
 .menusec h4 {
   font-size: 25px;
 }
+.prodtext2 h4 {
+  font-family: 'open sans';
+  font-size: 20px;
+}
+.prodtext2 p {
+  font-family: 'open sans';
+  font-size: 14px;
+
+}
+.modal.show .modal-dialog {
+  transform: none;
+  width: 92% !important;
+  max-width: 100%;
+}
 }
 
 
