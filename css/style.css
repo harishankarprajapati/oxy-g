@@ -228,12 +228,14 @@ img.img-fluid.sec-logo-img {
 .secaatext2 {
   font-family: 'open sans';
   font-size: 40px;
-  line-height: 35px;
+  line-height: 40px;
   font-weight: 600;
   color: #11121C;
   text-align: center;
 }
-
+.owl-nav.disabled , .owl-dots.disabled {
+  display: none;
+}
 .secaatext3 {
   font-family: 'open sans';
   font-size: 18px;
@@ -330,6 +332,7 @@ img.img-fluid.sec-logo-img {
   font-size: 50px;
   font-weight: 500;
   color: #11121C;
+  padding-bottom: 30px;
 }
 
 .prodimg {
