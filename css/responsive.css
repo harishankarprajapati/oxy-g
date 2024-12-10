@@ -433,6 +433,22 @@ button.btn.secmodww {
 h5#exampleModalLabel {
   font-size: 17px;
 }
+.secbox h3 {
+  font-size: 22px;
+}
+.secbox {
+  width: 95%;
+  padding: 20px !important;
+}
+.secbox p , .secloimg p{
+  font-size: 16px;
+}
+.secbbtext {
+  font-size: 22px;
+}
+.herobgsecprod , .herobgsecprod2 {
+  padding-bottom: 20px !important;
+}
 }
 
 
