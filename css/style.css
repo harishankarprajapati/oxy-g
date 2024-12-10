@@ -337,6 +337,11 @@ img.img-fluid.sec-logo-img {
   border-radius: 20px;
   text-align: center;
 }
+.prodimg3 {
+  background: #EAEAEA;
+  border-radius: 20px;
+  text-align: center;
+}
 
 .prodtext h4 {
   font-family: 'open sans';
@@ -359,6 +364,10 @@ img.img-fluid.sec-logo-img {
 }
 
 .prodimg img {
+  width: 100% !important;
+  margin: auto;
+}
+.prodimg3 img {
   width: 50% !important;
   margin: auto;
 }
@@ -602,8 +611,8 @@ i.bi.bi-envelope {
   font-style: italic;
   text-transform: capitalize;
   text-align: center;
-  padding-top: 50px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
 .sec-fil {
   color: #979797;
@@ -724,7 +733,7 @@ button.accordion-button.border-bottom.fw-semibold.collapsed {
 }
 
 .prodimg2 img {
-  width: 47% !important;
+  width: 100% !important;
   margin: auto;
 }
 
@@ -794,6 +803,56 @@ input {
   color: #fff;
 }
 
+.secbox{
+  background: #fff !important;
+  width: 70%;
+  margin: auto;
+  padding: 40px !important;
+  margin-top: -100px;
+  z-index: 99;
+  position: relative;
+  border-radius: 30px;
+}
 
+.secbox h3{
+font-family: 'Open Sans';
+text-align: center;
+font-size: 50px;
+color: #11121C;
+}
+.secbox h3 span{
+font-weight: 700;
+  }
 
-
+  .secbox p{
+    font-family: 'Open Sans';
+    text-align: center;
+    font-size: 18px;
+  }
+  .secloimg{
+    text-align: center;
+  }
+  .secloimg p{
+    font-family: 'Open Sans';
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+  .secbbtext{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 600;
+    color: #11121C;
+    padding-bottom: 20px;
+  }
+  .secbbtext span{
+    font-weight: 800;
+  }
+  .secimgcer{
+    text-align: center;
+    padding-top: 30px;
+  }
+  .secpaa1{
+    padding: 0px 10px 50px 10px;
+  }
