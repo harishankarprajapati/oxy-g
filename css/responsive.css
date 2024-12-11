@@ -47,7 +47,18 @@ img.img-fluid.sec-logo-img {
 }
 .martext {
   font-size: 35px;
+  padding-right: 40px;
 }
+.secbbtext {
+  font-size: 40px;
+  padding-bottom: 0px;
+  padding-top: 40px;
+}
+.seccatepadd {
+  padding: 80px 10px;
+}
+
+
 .modal.show .modal-dialog {
   width: 48% !important;
 }
