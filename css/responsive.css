@@ -16,7 +16,7 @@
     font-size: 18px;
   }
   .secblog2 {
-    margin-top: -500px !important;
+    margin-top: -430px !important;
 }
 .secmaibtn3 {
   text-align: center;
@@ -84,7 +84,10 @@ button.btn-close {
 .footerbg {
   padding: 120px 50px 50px 50px;
 }
-
+.secblogtext {
+  margin-top: -99px !important;
+  width: 80%;
+}
 
 }
 
@@ -270,6 +273,12 @@ br.disnn {
 
 
 @media only screen and (max-width:767px) {
+  .menusec {
+    padding-bottom: 20px;
+}
+img.img-fluid.sec-logo-img {
+  width: 63%;
+}
   a.navbar-brand {
     width: 72%;
 }
