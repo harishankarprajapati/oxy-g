@@ -487,6 +487,10 @@ img.img-fluid.sec-logo-img {
 .secblog2{
   padding: 0;
 }
+.secdecmor{
+  font-size: 14px !important;
+}
+
 .footerbg{
   background-image: url(../images/footerbg.png);
   background-repeat: no-repeat;
@@ -729,7 +733,8 @@ button.accordion-button.border-bottom.fw-semibold.collapsed {
   font-size: 16px;
   font-weight: 500;
   color: #fff;
-  background-color: #0066FF;
+  background-color: #4fce5d;
+  border-radius: 10px;
   padding: 10px 12px;
 }
 .secmodww{
