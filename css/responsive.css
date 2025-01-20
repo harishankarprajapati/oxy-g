@@ -383,6 +383,7 @@ img.img-fluid.sec-logo-img {
   margin-top: -90px !important;
   border-radius: 15px;
   width: 90%;
+  margin-bottom: 20px;
 }
 .owl-nav {
   display: none;
@@ -478,6 +479,20 @@ h5#exampleModalLabel {
 .sec-grt-h {
   font-size: 25px;
 }
+.sec-tra-p {
+  font-size: 20px;
+}
+.sec-aboy-padd {
+  padding: 40px 0px;
+}
+.cont-sec-ih {
+  color: #000;
+  font-size: 25px;
+}
+.cont-sec-ico {
+  color: #0B1A48;
+  font-size: 30px;
+}
 }
 
 
@@ -519,7 +534,7 @@ i.bi.bi-envelope {
   display: none;
 }
 .secsubtext {
-  font-size: 28px;
+  font-size: 23px;
 }
   .card{
     width:99vw;
