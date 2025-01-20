@@ -63,10 +63,11 @@
     <div class="container">
     <div class="row m-0">
         <div class="col-md-6">
-            <p class="seccopy">All Right Reserved.</b> Copyright © 2024 Oxy-g.</p>
+            <p class="seccopy">All Right Reserved. Copyright © <span id="year"></span> Oxy-g.</p>    
         </div>
         <div class="col-md-6">
             <p class="seccopy2">&nbsp;<a href="privacy-policy.html">Privacy Policy</a> &nbsp; &nbsp; <a href="terms-and-conditions.html">Terms & Conditions</a></p>
+        
         </div>
     </div>
 </div>
@@ -77,22 +78,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <script>
+// copyright-start
+const year = document.getElementById("year");
+year.textContent = new Date().getFullYear();
+// copyright-end
+
 
     $(document).ready(function () {
 
